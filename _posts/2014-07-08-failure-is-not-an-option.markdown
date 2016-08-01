@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Failure is not an option"
-subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+title:      "失败不是一种选择 "
+subtitle:   "许多人说探索是我们命运的一部分，但它实际上是我们对子孙后代的责任。 "
 date:       2014-07-08 12:00:00
 author:     "Start Bootstrap"
 header-img: "img/post-bg-03.jpg"

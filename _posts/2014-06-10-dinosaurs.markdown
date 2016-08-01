@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
+title:      "恐龙今天灭绝了"
+subtitle:   "因为他们缺少拇指和脑力来建造一个空间计划。"
 date:       2014-06-10 12:00:00
 author:     "Start Bootstrap"
 header-img: "img/post-bg-01.jpg"

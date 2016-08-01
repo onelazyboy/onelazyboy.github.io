@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Science has not yet mastered prophecy"
-subtitle:   "We predict too much for the next year and yet far too little for the next ten."
+title:      "科学还没有掌握的预言"
+subtitle:   "我们预测明年的太多，但在未来十年太少了。"
 date:       2014-08-24 12:00:00
 author:     "Start Bootstrap"
 header-img: "img/post-bg-04.jpg"

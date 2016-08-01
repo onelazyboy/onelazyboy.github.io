@@ -1,13 +1,16 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
+title:      "再别康桥"
+subtitle:   "再别康桥"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "徐志摩"
 header-img: "img/post-bg-06.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>轻轻的我走了，</p>
+<p>正如我轻轻的来；</p>
+<p>我轻轻的招手，</p>
+<p>作别西天的云彩。</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
