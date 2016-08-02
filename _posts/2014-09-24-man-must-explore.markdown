@@ -5,6 +5,9 @@ subtitle:   "再别康桥"
 date:       2014-09-24 12:00:00
 author:     "徐志摩"
 header-img: "img/post-bg-06.jpg"
+catalog: true
+tags:
+    - 幸福照
 ---
 
 <p>轻轻的我走了，</p>

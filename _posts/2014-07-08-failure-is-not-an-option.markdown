@@ -5,6 +5,9 @@ subtitle:   "许多人说探索是我们命运的一部分，但它实际上是�
 date:       2014-07-08 12:00:00
 author:     "Start Bootstrap"
 header-img: "img/post-bg-03.jpg"
+catalog: true
+tags:
+    - 生活
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>

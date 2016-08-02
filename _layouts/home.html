@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+    {% include nav.html %}
+
+    <!-- Page Header -->
+	<header class="intro-header" style="height:700px;background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+	                <div class="site-heading">
+	                    <span class="subheading">{{ page.description }}</span>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</header>
+	
+	
+
+    <!-- Footer -->
+	<footer>
+	    <div class="container">
+	                <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+	    </div>
+	</footer>
+	
+	<!-- jQuery -->
+	<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+	
+	<!-- Bootstrap Core JavaScript -->
+	<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+	
+	<!-- Custom Theme JavaScript -->
+	<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+
+    {% include ga.html %}
+
+</body>
+
+</html>

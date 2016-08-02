@@ -1,5 +1,5 @@
 # Site settings
-title: MyFamily
+title: 想我了么
 header-img: img/home-bg.jpg
 email: onelazyboy@126.com
 copyright_name: PeiYouJun.2014
@@ -16,7 +16,13 @@ email_username:  your-email@yourdomain.com
 # google_tracking_id:
 
 # Build settings
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
 highlighter: rouge
 permalink: pretty
 paginate: 5
@@ -24,3 +30,7 @@ paginate_path: "blog/page:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
