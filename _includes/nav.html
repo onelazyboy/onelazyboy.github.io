@@ -22,7 +22,7 @@
                     <a href="{{ site.baseurl }}/media/">视频</a>
                 </li>
 				<li>
-                    <a href="{{ site.baseurl }}/blog/">博客</a>
+                    <a href="{{ site.baseurl }}/blog/">点点滴滴</a>
                 </li>
                 {% for page in site.pages %}{% if page.title %}
 				{% if page.url != '/404.html' %}
@@ -31,6 +31,9 @@
                 </li>
 				{% endif %}
                 {% endif %}{% endfor %}
+				<li>
+                    <a href="{{ site.baseurl }}/teach/">技术支持</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
