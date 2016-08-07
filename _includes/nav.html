@@ -19,16 +19,18 @@
                     <a href="{{ site.baseurl }}/">主页</a>
                 </li>
 				<li>
-                    <a href="{{ site.baseurl }}/media/">视频</a>
+                    <a href="{{ site.baseurl }}/blog/">记录</a>
                 </li>
 				<li>
-                    <a href="{{ site.baseurl }}/blog/">点点滴滴</a>
+                    <a href="{{ site.baseurl }}/media/">视频</a>
                 </li>
                 {% for page in site.pages %}{% if page.title %}
+				{% if page.isNavItem %}
 				{% if page.url != '/404.html' %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
+				{% endif %}
 				{% endif %}
                 {% endif %}{% endfor %}
 				<li>
