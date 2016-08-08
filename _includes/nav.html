@@ -24,7 +24,8 @@
 				<li>
                     <a href="{{ site.baseurl }}/media/">视频</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
+                {% for page in site.pages %}
+				{% if page.title %}
 				{% if page.isNavItem %}
 				{% if page.url != '/404.html' %}
                 <li>
