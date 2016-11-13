@@ -1,7 +1,8 @@
 ---
 layout: blogPage
-description: "每天早晨叫醒你的不是闹钟,而是梦想!"
+description: "惟有爱的光阴最美丽!"
 isNavItem: true
+header-img: "static/img/about-bg.jpg"
 ---
 
 {% for post in paginator.posts %}
@@ -15,7 +16,7 @@ isNavItem: true
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} 发表于  {{ post.date | date: "%Y/%m/%d" }}</p>
 </div>
 <hr>
 {% endfor %}

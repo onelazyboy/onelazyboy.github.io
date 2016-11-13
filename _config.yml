@@ -1,6 +1,6 @@
 # Site settings
 title: 想我了么
-header-img: img/home-bg.jpg
+header-img: static/img/home-bg.jpg
 email: onelazyboy@126.com
 copyright_name: PeiYouJun.2014
 description: "Write your site description here. It will be used as your sites meta description as well!"

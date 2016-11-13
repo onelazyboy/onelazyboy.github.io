@@ -5,8 +5,8 @@ module.exports = function(grunt) {
         pkg: grunt.file.readJSON('package.json'),
         uglify: {
             main: {
-                src: 'js/<%= pkg.name %>.js',
-                dest: 'js/<%= pkg.name %>.min.js'
+                src: 'static/js/<%= pkg.name %>.js',
+                dest: 'static/js/<%= pkg.name %>.min.js'
             }
         },
         less: {
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
                     paths: ["css"]
                 },
                 files: {
-                    "css/<%= pkg.name %>.css": "less/<%= pkg.name %>.less"
+                    "static/css/<%= pkg.name %>.css": "less/<%= pkg.name %>.less"
                 }
             },
             minified: {
@@ -24,7 +24,7 @@ module.exports = function(grunt) {
                     cleancss: true
                 },
                 files: {
-                    "css/<%= pkg.name %>.min.css": "less/<%= pkg.name %>.less"
+                    "static/css/<%= pkg.name %>.min.css": "less/<%= pkg.name %>.less"
                 }
             }
         },
@@ -40,13 +40,13 @@ module.exports = function(grunt) {
                     banner: '<%= banner %>'
                 },
                 files: {
-                    src: ['css/<%= pkg.name %>.css', 'css/<%= pkg.name %>.min.css', 'js/<%= pkg.name %>.min.js']
+                    src: ['static/css/<%= pkg.name %>.css', 'css/<%= pkg.name %>.min.css', 'static/js/<%= pkg.name %>.min.js']
                 }
             }
         },
         watch: {
             scripts: {
-                files: ['js/<%= pkg.name %>.js'],
+                files: ['static/js/<%= pkg.name %>.js'],
                 tasks: ['uglify'],
                 options: {
                     spawn: false,
