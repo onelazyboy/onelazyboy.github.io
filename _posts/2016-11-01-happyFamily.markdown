@@ -11,8 +11,6 @@ tags:
 
 <h2 class="section-heading">我们俩</h2>
 
-<p>每天傻乎乎的过着！</p>
-
 <a href="#">
     <img src="{{ site.baseurl }}/static/img/w1.png" alt="Post Sample Image">
 </a>
