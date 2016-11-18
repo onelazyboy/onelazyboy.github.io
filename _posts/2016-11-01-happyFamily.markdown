@@ -12,7 +12,7 @@ tags:
 <h2 class="section-heading">我们俩</h2>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/static/photo/倾城.jpg" alt="倾国倾城">
+    <img src="{{ site.baseurl }}/static/photo/qingcheng.jpg" alt="倾国倾城">
 </a>
 <span class="caption text-muted">是不是很漂亮啊.</span>
 
