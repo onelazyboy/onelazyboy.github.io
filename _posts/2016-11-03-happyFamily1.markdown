@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "我们（2）"
+title:      "We(我们)"
 subtitle:   "美满！"
-author:     "裴有军"
+author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"
 catalog: true
 tags:
