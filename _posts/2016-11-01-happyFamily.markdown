@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "开始"
-subtitle:   "幸福，就是有人对你耍流氓！"
+subtitle:   "幸福，就是从今天开始！"
 author:     "裴有军"
 header-img: "static/img/post-bg-06.jpg"
 catalog: true

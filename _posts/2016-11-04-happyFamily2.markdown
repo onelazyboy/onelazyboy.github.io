@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "在一起"
-subtitle:   "甜蜜！"
+subtitle:   "生命是花，爱是蜜！"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"
 catalog: true
