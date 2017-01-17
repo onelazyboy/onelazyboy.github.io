@@ -33,8 +33,8 @@ featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 # Google Analytics
-ga_track_id: 'UA-35560141-1'            # Format: UA-xxxxxx-xx
-ga_domain: xiangwole.me
+ga_track_id: 'UA-90476920-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 # Analytics settings
 # Baidu Analytics 
