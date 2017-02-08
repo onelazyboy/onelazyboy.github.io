@@ -9,9 +9,6 @@ tags:
     - 爱爱
 ---
 
-<h2 class="section-heading">我们俩</h2>
-
-
 |     |
 | --- |
 | <img  src="http://ww1.sinaimg.cn/large/71be7325ly1fcjdn9b8ilg20c805j140">   |
