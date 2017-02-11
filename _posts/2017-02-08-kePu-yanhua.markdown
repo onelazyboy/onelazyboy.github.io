@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "各种花色的烟花是怎样形成的？"
+title:      "【科普】各种花色的烟花是怎样形成的？"
 subtitle:   "等待最美丽的绽放！"
 author:     "摘自CAOLIU"
 header-img: "static/img/post-bg-06.jpg"
