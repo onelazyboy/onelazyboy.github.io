@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2016全球最美的50张婚纱照"
+title:      "【收藏】2016全球最美的50张婚纱照"
 subtitle:   "他们从50个国家的摄影师提交的接近9000张作品中.... 选出了他们认为最赞的这50张作品..."
 author:     "佚名"
 header-img: "static/img/post-bg-06.jpg"

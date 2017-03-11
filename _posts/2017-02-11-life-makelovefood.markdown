@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【生活小常识】制作有爱心的食物"
+title:      "【生活】制作有爱心的食物"
 subtitle:   "用心去做每一件事！"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"

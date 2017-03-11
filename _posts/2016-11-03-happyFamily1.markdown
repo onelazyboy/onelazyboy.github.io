@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "We(我们)"
+title:      "【照片】We(我们)"
 subtitle:   "一生之中一定会遇到某个人，她打破你的原则，成为你的例外，成就你全世界的幸福。"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"

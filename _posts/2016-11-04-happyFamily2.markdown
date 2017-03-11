@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "在一起"
+title:      "【照片】在一起"
 subtitle:   "生命是花，爱是蜜！"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"
