@@ -26,9 +26,13 @@ paginate: 8
 paginate_path: "blog/page:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jemoji, jekyll-mentions]
+
+repository: www.xiangwole.me
+
+github: [metadata]
+theme: jekyll-theme-midnight
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
