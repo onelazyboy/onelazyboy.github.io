@@ -4,7 +4,9 @@ title:      "【嘿嘿】客厅、沙发、阳台、厨房、浴室、卧室、�
 subtitle:   "情侣在一起要做的事"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"
+show-image: http://ww1.sinaimg.cn/large/71be7325ly1fcjdn9b8ilg20c805j140
 catalog: true
+category: blog
 tags:
     - 爱爱
 ---

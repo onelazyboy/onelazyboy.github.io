@@ -4,7 +4,9 @@ title:      "【生活】制作有爱心的食物"
 subtitle:   "用心去做每一件事！"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"
+show-image: http://ww2.sinaimg.cn/large/71be7325jw1famqr92mj1j21kw11stuy.jpg
 catalog: true
+category: blog
 tags:
     - 生活小常识
 ---

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('http://ww1.sinaimg.cn/large/71be7325ly1fbzd5w8vb2j21gs0o644e.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
+                <div class="site-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ '记录' }}{% endif %}</h1>
+                    <!--<hr class="small">-->
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div id='content'>
+	<div id='posts'>
+		<ul>
+			{% for post in site.categories.blog %}
+				<li >
+					{% if post.show-image %}
+						<a href='{{post.url}}'><img class='post-image' src="{{post.show-image}}" /></a>
+					{% endif %}
+					<div class="postcontent">
+						<a href='{{post.url}}'><h1 class='post-title'>{{post.title}}</h1></a>
+						<div class='post-date'>{{ post.date | date: "%Y-%m-%d"}}</div>
+						
+						<div class='post-content'>{{post.subtitle}}</div>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div style='clear:both'></div>
+</div>

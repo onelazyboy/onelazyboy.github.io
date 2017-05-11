@@ -4,7 +4,9 @@ title:      "【鸡汤】时间是什么样的?"
 subtitle:   "摄影师jan langer用他的作品告诉你"
 author:     "PYJ"
 header-img: "static/img/post-bg-06.jpg"
+show-image: http://wx1.sinaimg.cn/large/e7bf4c79gy1ff769uqq42j20h00bd751.jpg
 catalog: true
+category: blog
 tags:
     - love
 ---

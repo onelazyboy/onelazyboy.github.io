@@ -22,6 +22,17 @@
 	<link rel="stylesheet" href="{{ "/static/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/static/css/googleLora.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/static/css/googleOpenSans.css" | prepend: site.baseurl }}">
+
+	<link rel="stylesheet" type="text/css" href="/static/css/socialicious.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/main.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/monokai.css">
+	<link href="/blog/rss.xml" rel="alternate" type="application/rss+xml" title="{{site.blog_title}}" />
+	<title>{{site.blog_title}}</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<script type="text/javascript" src='/static/js/jquery.min.js'></script>
+	<script type="text/javascript" src='/static/js/jquery.masonry.min.js'></script>
+	<script type="text/javascript" src='/static/js/jquery.imagesloaded.min.js'></script>
+	<script type="text/javascript" src='/static/js/highlight.pack.js'></script>
+
    
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,5 +42,24 @@
     <![endif]-->
 
     {% feed_meta %}
+
+
+	<script type="text/javascript">
+			hljs.initHighlightingOnLoad();
+			function applyTiles() {
+				var posts = $('#posts ul');
+				posts.imagesLoaded(function() {
+					$('#posts ul').masonry({ itemSelector : '.post' });;
+				});
+			}
+			$(function() {
+				applyTiles();
+			});
+			$(window).resize(function() {
+				applyTiles();
+			});
+		</script>
+		<style type="text/css">
+		</style>
 
 </head>

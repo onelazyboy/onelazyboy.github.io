@@ -4,7 +4,9 @@ title:      "【收藏】一张照片胜过千言万语"
 subtitle:   "总有一张让你心中一软，泪从中来。"
 author:     "PYJ"
 header-img: "static/img/post-bg-06.jpg"
+show-image: http://ww1.sinaimg.cn/large/71be7325ly1fdj1j4uyxnj20c61su44y
 catalog: true
+category: blog
 tags:
     - 故事
 ---

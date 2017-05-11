@@ -3,10 +3,11 @@ layout:     post
 title:      "开始"
 subtitle:   "幸福，就是从今天开始！"
 author:     "裴有军"
-header-img: "static/img/post-bg-06.jpg"
+category: blog
 catalog: true
-tags:
-    - 幸福照
+header-img: "static/img/post-bg-06.jpg"
+show-image: http://ww1.sinaimg.cn/large/71be7325jw1famoztltktj20sg0iw45c.jpg
+tags: [幸福照,家]  
 ---
 
 <h2 class="section-heading">我们俩</h2>

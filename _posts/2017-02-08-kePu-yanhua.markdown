@@ -4,7 +4,9 @@ title:      "【科普】各种花色的烟花是怎样形成的？"
 subtitle:   "等待最美丽的绽放！"
 author:     "摘自CAOLIU"
 header-img: "static/img/post-bg-06.jpg"
+show-image: http://ww1.sinaimg.cn/large/71be7325ly1fcjdzuh3rij20dw07tjsy
 catalog: true
+category: blog
 tags:
     - 科普
 ---
