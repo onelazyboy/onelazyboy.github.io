@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "【嘿嘿】客厅、沙发、阳台、厨房、浴室、卧室、车上"
+title:      "【嘿嘿】客厅、沙发、阳台、厨房、"
 subtitle:   "情侣在一起要做的事"
 author:     "YJ"
 header-img: "static/img/post-bg-06.jpg"

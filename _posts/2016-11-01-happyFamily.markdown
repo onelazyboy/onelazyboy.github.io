@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "开始"
+title:      "We(我们)"
 subtitle:   "幸福，就是从今天开始！"
 author:     "裴有军"
 category: blog

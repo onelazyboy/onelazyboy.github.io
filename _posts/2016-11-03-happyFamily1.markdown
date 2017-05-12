@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "We我们"
-subtitle:   "一生之中一定会遇到某个人，她打破你的原则，成为你的例外，成就你全世界的幸福。"
+title:      "开始"
+subtitle:   "一定会遇到某个人，成为你的例外"
 author:     "YJ"
 category: blog
 catalog: true
