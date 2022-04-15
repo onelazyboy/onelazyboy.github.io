@@ -141,7 +141,6 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
 }
 .intro-header1 {
   background: no-repeat center center;
@@ -275,7 +274,7 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 0px 0 45px;
+  padding: 0px 0 0px;
 }
 footer .list-inline {
   margin: 0;
